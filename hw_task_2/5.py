@@ -9,3 +9,5 @@ def kol_les(n, k):
 
 
 print(kol_les(5, 0))
+
+
